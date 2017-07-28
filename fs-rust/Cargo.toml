@@ -1,5 +1,5 @@
 [package]
-name = "irc_log"
+name = "fs"
 version = "0.1.0"
 authors = ["Kyoko KADOWAKI <kyoko.kadowaki@gmail.com>"]
 
